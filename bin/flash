@@ -1,0 +1,4 @@
+#!/bin/bash
+
+qmk flash -kb keychron/q2/rev_0111 -km cian-kane
+
